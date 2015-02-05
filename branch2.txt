@@ -1,0 +1,11 @@
+git官方的book
+http://git-scm.com/book/zh/v1
+
+GIT基本概念和用法总结
+https://github.com/iamchenxin/learn
+
+Git回滚的常用手法
+http://hittyt.iteye.com/blog/1961386
+
+粗略的介绍，似乎不精确
+http://www.devtang.com/blog/2012/02/03/talk-about-svn-and-git/
